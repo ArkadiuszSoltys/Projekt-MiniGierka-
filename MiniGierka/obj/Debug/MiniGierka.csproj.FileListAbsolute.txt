@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\obiektowe-projekt\MiniGierka-master\MiniGierka\bin\Debug\LICENSE
+C:\Users\Acer\Desktop\obiektowe-projekt\MiniGierka-master\MiniGierka\bin\Debug\MiniGierka.exe.config
+C:\Users\Acer\Desktop\obiektowe-projekt\MiniGierka-master\MiniGierka\bin\Debug\MiniGierka.exe
+C:\Users\Acer\Desktop\obiektowe-projekt\MiniGierka-master\MiniGierka\bin\Debug\MiniGierka.pdb
+C:\Users\Acer\Desktop\obiektowe-projekt\MiniGierka-master\MiniGierka\obj\Debug\MiniGierka.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\obiektowe-projekt\MiniGierka-master\MiniGierka\obj\Debug\MiniGierka.OknoAutorzy.resources
+C:\Users\Acer\Desktop\obiektowe-projekt\MiniGierka-master\MiniGierka\obj\Debug\MiniGierka.OknoGry.resources
+C:\Users\Acer\Desktop\obiektowe-projekt\MiniGierka-master\MiniGierka\obj\Debug\MiniGierka.Properties.Resources.resources
+C:\Users\Acer\Desktop\obiektowe-projekt\MiniGierka-master\MiniGierka\obj\Debug\MiniGierka.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\obiektowe-projekt\MiniGierka-master\MiniGierka\obj\Debug\MiniGierka.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\obiektowe-projekt\MiniGierka-master\MiniGierka\obj\Debug\MiniGierka.exe
+C:\Users\Acer\Desktop\obiektowe-projekt\MiniGierka-master\MiniGierka\obj\Debug\MiniGierka.pdb
